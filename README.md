@@ -41,18 +41,9 @@ Student-marks-analysis/
 │── Student_Exam_Score_DA.ipynb # Main analysis notebook
 │── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
----
-
 ## ⚙ Installation
 ```bash
 git clone https://github.com/Deepanshubhargav1/Student-marks-analysis.git
 cd Student-marks-analysis
 pip install pandas numpy matplotlib seaborn
 jupyter notebook Student_Exam_Score_DA.ipynb
-yaml
-Copy
-Edit
